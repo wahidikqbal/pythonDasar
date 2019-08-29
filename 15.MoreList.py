@@ -3,3 +3,6 @@ print(barang)
 
 barang.append('sepeda')
 print(barang)
+
+barang.extend('abc')
+print(barang)
