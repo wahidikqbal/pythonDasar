@@ -10,3 +10,4 @@ print(hasil)
 kali = lambda x,y: x*y
 hasilKali = kali(5,6)
 print(hasilKali)
+
