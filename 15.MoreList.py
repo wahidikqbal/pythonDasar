@@ -1,0 +1,1 @@
+barang = ['sapu','kunci','motor']
