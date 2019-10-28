@@ -1,4 +1,4 @@
-number = 24
+number = 22
 
 for i in range(0,25):
     print(i)

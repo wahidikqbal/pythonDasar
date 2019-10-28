@@ -5,11 +5,15 @@ for g in gorengan:
     print(g) 
 
 
+print(100*'=')
+
 #string sebagai itereable
 
 ayamgoreng = 'ayamgoreng'
 for huruf in gorengan:
     print(huruf)
+
+print(100 * '=')
 
 #for dalam for
 buah  = ['semangka', 'apel', 'nanas', 'melon', 'pisang']
