@@ -32,4 +32,4 @@ elif 60 <= nilai <= 70:
 elif 50 <= nilai <= 60:
     print('Anda dapat nilai D')
 else:
-  print('anda tidak lulus')
+    print('anda tidak lulus')
