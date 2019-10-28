@@ -1,6 +1,6 @@
 class siswa():
     #pass ---> kalau class kosong pakai pass
-    
+
     nama = 'masih kosong'
 
     def makan(self, argumen):
