@@ -1,0 +1,3 @@
+ini adalah baris pertama write
+ini adalah baris kedua write
+ini baris ke tiga, dibuat menggunakan append
