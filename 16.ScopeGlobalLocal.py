@@ -6,6 +6,7 @@ def gantiMobil(mobilBaru):
     #delete global untuk mengetehui perbedaan
     mobil = mobilBaru
     print('saya beli mobil baru', mobilBaru)
+    
 gantiMobil('terios')
 
 print('mobil saya sekarang',mobil)

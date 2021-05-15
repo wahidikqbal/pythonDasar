@@ -1,4 +1,4 @@
-number = 22
+number = 19
 
 for i in range(0,25):
     print(i)
@@ -8,5 +8,5 @@ for i in range(0,25):
         break
 else:
     print('sorry, angka tidak ditemukan')
+print('batas akhir')   
 
-print('batas akhir')

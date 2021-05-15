@@ -8,6 +8,7 @@ def teman(name,makanan,hobby):
 
 teman('riko','bakso','main catur')
 
+#dengan default
 def guru(name,pelajaran='matematika',shift='jam ke-1'):
     print('guru saya bernama',name)
     print('dia mengajar palajaran', pelajaran)

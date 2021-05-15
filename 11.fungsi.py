@@ -19,6 +19,6 @@ def listHarga(kg):
     hargaDaging = 20000
     hargaBeli  = hargaDaging*kg
     print('harga',kg,'daging, adalah',hargaBeli)
-
-listHarga(2)
+"""
+listHarga(2)"""
 listHarga(0.5)
