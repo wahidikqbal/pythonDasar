@@ -10,7 +10,7 @@ print(100*'=')
 #string sebagai itereable
 
 ayamgoreng = 'ayamgoreng'
-for huruf in gorengan:
+for huruf in ayamgoreng:
     print(huruf)
 
 print(100 * '=')
