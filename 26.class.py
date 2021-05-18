@@ -9,3 +9,4 @@ arifin.fakultas = 'ekonomi'
 ucup.fakultas   = 'bahasa'
 
 print(arifin.fakultas)
+print(ucup.fakultas)

@@ -2,9 +2,12 @@
 import moduleMatematika as math
 math.tambah(2,5)
 
-#import module tertentu
+#import funsi tertentu dari modul
 from moduleKaliBagi import kali
 kali(5,7)
+
+import modul2 as mod
+mod.modul2()
 
 
 #atau bisa juga dengan menggunakan
