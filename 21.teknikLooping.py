@@ -29,6 +29,7 @@ for rapot, nama in zip(nilai,siswa):
 
 print(10*'--','UNTUK TIPE DATA SET',10*'--')
 #TIPE DATA SET
+
 indonesia = {
     'jawa',
     'bali',
@@ -44,6 +45,7 @@ for pulau in sorted(indonesia): #sorted() --> untuk mengurutkan tipedata SET
 
 print(10*'--','UNTUK TIPE DATA DICTIONARY',10*'--')
 #TIPE DATA DICTIONARY
+
 hobby = {
     'eko'       : 'makan',
     'pandji'    : 'futsal',
@@ -60,3 +62,27 @@ for orang in hobby.keys():
 #valuse() ---> mengambil data nilai/belakang saja
 for suka in hobby.values():
     print('hobby teman saya', suka)
+
+
+anak = [
+    'tejo',
+    'marina',
+    'citra',
+    'budi'
+    ]
+    
+
+
+print(10*'--','TEST',10*'--')
+
+for nama in anak:
+    print('nama saya', nama)
+
+print(10*'--','TEST 2',10*'--')
+
+for urutan, nama in enumerate(anak):
+    #urutan = urutan + 1
+    print(nama, 'anak ke', urutan)
+
+
+    
