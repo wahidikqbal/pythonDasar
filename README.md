@@ -11,5 +11,6 @@ git fetch  = mencocokkan git lokal dan github
 git merger = menggabungkan github
 git status = melihat status git
 view       = git log --all --decorate --oneline --graph
+		   = disingkat menjadi "adog"
 
 login dengan komputer baru

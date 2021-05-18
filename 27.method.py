@@ -10,11 +10,20 @@ class siswa():
     def belajar(self, argumen):
         print(self.nama, 'sedang belajar', argumen)
 
-arifin = siswa()
-ucup   = siswa()
+    def kelas(self, arg):
+    	print(self.obj, 'adalah', arg)
+
+arifin 		= siswa()
+ucup   		= siswa()
+keterangan 	= siswa()
+
 
 arifin.nama = 'arifin ilham'
 ucup.nama   = 'ucup markucup'
 
 arifin.makan('sayur bayem') 
 ucup.belajar('python')
+
+
+keterangan.obj	= 'kelas satu'
+keterangan.kelas('kelas pertama')
